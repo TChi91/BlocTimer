@@ -9,4 +9,7 @@ The finished application should look like this:
 
 ![header image](https://bloclibrary.dev/assets/gifs/flutter_timer.gif)
 
+## Tutorial:
+https://bloclibrary.dev/#/fluttertimertutorial
+
 
